@@ -6,9 +6,9 @@ email: "samerwleeed@gmail.com"
 twitter_username: "sam_x86_"
 github_username: "samx-86"
 youtube_username: "hack_scale"
+rss: rss
 
 theme: minima
-rss: rss
 
 plugins:
   - jekyll-feed
