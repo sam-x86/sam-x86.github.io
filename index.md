@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Welcome.
 
-Maybe say a some things about yourself.
+I’m Sam — a cybersecurity enthusiast focused on **ethical hacking and offensive security**.  
+This blog documents my journey through tools, techniques, and real-world experiments.
 
-Or maybe what you plan to blog about.
+I share what I learn, how things actually work, and how to build a hacker mindset step by step.  
+Everything here is practical, intentional, and experience-driven.
