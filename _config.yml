@@ -1,42 +1,15 @@
 title: "Sam's Blog"
-author: "sam"
-description: "Cybersecurity, ethical hacking, and the hacker mindset. Documenting tools, experiments, and lessons learned while building real-world security skills.
+author: "Sam"
+description: "Cybersecurity, ethical hacking, and the hacker mindset. Practical learning without hype."
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
 email: "samerwleeed@mail.com"
 twitter_username: "sam_x86_"
-github_username: "sam-x86"
-#linkedin_username: "linkedinuser"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-youtube_username: hack_scale
-#googleplus_username: +username
+github_username: "samx-86"
+youtube_username: "hack_scale"
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
-
+theme: minima
 rss: rss
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
